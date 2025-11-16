@@ -1,2 +1,7 @@
 .env
 scripts/__pycache__/feature_generation.cpython-312.pyc
+mat_venv/
+.mat_venv/
+# Ignore any virtual env directories
+venv/
+/venv/

@@ -1,11 +1,20 @@
-python-dotenv
+# Core data/LLM deps
+pydantic>=2.0
+tiktoken
+sentence-transformers
+chromadb>=0.5.0
+# chromadb is installed separately (use: pip install --no-deps chromadb==0.4.24 overrides posthog clickhouse-connect chroma-hnswlib==0.7.3)
+overrides
+
+# PDF / OCR
 pymupdf
 pdfplumber
 pytesseract
 Pillow
-tqdm
+
+# Utilities
+python-dotenv
 requests
 beautifulsoup4
-chromadb
 pandas
-sentence-transformers
+tqdm
