@@ -1,0 +1,53 @@
+2025-11-16 14:01:49,408 - root - INFO - Starting PDF parsing stage...
+2025-11-16 14:01:49,593 - pdf_parser_ocr - INFO - Saved markdown to data/parsed/CN110922612A.md
+2025-11-16 14:01:50,444 - pdf_parser_ocr - INFO - Saved markdown to data/parsed/EP2171013B1.md
+2025-11-16 14:01:50,787 - pdf_parser_ocr - INFO - Saved markdown to data/parsed/JP2016065255A.md
+2025-11-16 14:01:53,948 - pdf_parser_ocr - INFO - Saved markdown to data/parsed/US20190106579A1.md
+2025-11-16 14:01:55,128 - pdf_parser_ocr - INFO - Saved markdown to data/parsed/US7998313.md
+2025-11-16 14:01:58,728 - pdf_parser_ocr - INFO - Saved markdown to data/parsed/US8513464.md
+2025-11-16 14:02:03,971 - pdf_parser_ocr - INFO - Saved markdown to data/parsed/US9289381.md
+2025-11-16 14:02:04,004 - pdf_parser_ocr - INFO - Saved markdown to data/parsed/WO2017222473A1.md
+2025-11-16 14:02:04,029 - pdf_parser_ocr - INFO - Saved markdown to data/parsed/WO2020014529A1.md
+2025-11-16 14:02:04,029 - root - INFO - Parsing stage complete.
+2025-11-16 14:02:04,030 - root - INFO - Starting preprocessing stage...
+2025-11-16 14:02:04,030 - preprocessing - INFO - Found 9 markdown files to process
+2025-11-16 14:02:04,071 - preprocessing - INFO - Processing: EP2171013B1.md
+2025-11-16 14:02:04,077 - preprocessing - INFO - Detected 43 sections
+2025-11-16 14:02:04,079 - preprocessing - INFO - Saved cleaned markdown to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/EP2171013B1_cleaned.md
+2025-11-16 14:02:04,079 - preprocessing - INFO - Saved metadata JSON to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/EP2171013B1_cleaned.json
+2025-11-16 14:02:04,079 - preprocessing - INFO - Processing: US8513464.md
+2025-11-16 14:02:04,099 - preprocessing - INFO - Detected 60 sections
+2025-11-16 14:02:04,101 - preprocessing - INFO - Saved cleaned markdown to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/US8513464_cleaned.md
+2025-11-16 14:02:04,101 - preprocessing - INFO - Saved metadata JSON to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/US8513464_cleaned.json
+2025-11-16 14:02:04,101 - preprocessing - INFO - Processing: US9289381.md
+2025-11-16 14:02:04,125 - preprocessing - INFO - Detected 117 sections
+2025-11-16 14:02:04,127 - preprocessing - INFO - Saved cleaned markdown to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/US9289381_cleaned.md
+2025-11-16 14:02:04,127 - preprocessing - INFO - Saved metadata JSON to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/US9289381_cleaned.json
+2025-11-16 14:02:04,127 - preprocessing - INFO - Processing: US7998313.md
+2025-11-16 14:02:04,133 - preprocessing - INFO - Detected 23 sections
+2025-11-16 14:02:04,134 - preprocessing - INFO - Saved cleaned markdown to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/US7998313_cleaned.md
+2025-11-16 14:02:04,134 - preprocessing - INFO - Saved metadata JSON to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/US7998313_cleaned.json
+2025-11-16 14:02:04,134 - preprocessing - INFO - Processing: US20190106579A1.md
+2025-11-16 14:02:04,150 - preprocessing - INFO - Detected 30 sections
+2025-11-16 14:02:04,152 - preprocessing - INFO - Saved cleaned markdown to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/US20190106579A1_cleaned.md
+2025-11-16 14:02:04,152 - preprocessing - INFO - Saved metadata JSON to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/US20190106579A1_cleaned.json
+2025-11-16 14:02:04,152 - preprocessing - INFO - Processing: JP2016065255A.md
+2025-11-16 14:02:04,155 - preprocessing - INFO - Detected 14 sections
+2025-11-16 14:02:04,156 - preprocessing - INFO - Saved cleaned markdown to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/JP2016065255A_cleaned.md
+2025-11-16 14:02:04,156 - preprocessing - INFO - Saved metadata JSON to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/JP2016065255A_cleaned.json
+2025-11-16 14:02:04,156 - preprocessing - INFO - Processing: WO2017222473A1.md
+2025-11-16 14:02:04,157 - preprocessing - INFO - Detected 61 sections
+2025-11-16 14:02:04,157 - preprocessing - INFO - Saved cleaned markdown to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/WO2017222473A1_cleaned.md
+2025-11-16 14:02:04,157 - preprocessing - INFO - Saved metadata JSON to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/WO2017222473A1_cleaned.json
+2025-11-16 14:02:04,157 - preprocessing - INFO - Processing: CN110922612A.md
+2025-11-16 14:02:04,158 - preprocessing - INFO - Detected 6 sections
+2025-11-16 14:02:04,159 - preprocessing - INFO - Saved cleaned markdown to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/CN110922612A_cleaned.md
+2025-11-16 14:02:04,159 - preprocessing - INFO - Saved metadata JSON to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/CN110922612A_cleaned.json
+2025-11-16 14:02:04,159 - preprocessing - INFO - Processing: WO2020014529A1.md
+2025-11-16 14:02:04,159 - preprocessing - INFO - Detected 50 sections
+2025-11-16 14:02:04,159 - preprocessing - INFO - Saved cleaned markdown to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/WO2020014529A1_cleaned.md
+2025-11-16 14:02:04,159 - preprocessing - INFO - Saved metadata JSON to: /Users/raghavg/Desktop/Sundai/materialscience-ai-/data/cleaned/WO2020014529A1_cleaned.json
+2025-11-16 14:02:04,160 - preprocessing - INFO - Successfully processed 9/9 files
+2025-11-16 14:02:04,160 - preprocessing - INFO - Total sections detected: 404
+2025-11-16 14:02:04,160 - preprocessing - INFO - Total cleaned characters: 544,717
+2025-11-16 14:02:04,160 - root - INFO - Preprocessing complete. Docs: 9 Sections: 404 Characters: 544717
